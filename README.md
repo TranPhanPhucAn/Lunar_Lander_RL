@@ -1,8 +1,6 @@
 <h1>LunarLander-v2</h1>
-<hr/>
 
 <h2>Requirement</h2>
-<hr/>
 <h4>Libraries:</h4>
 
 - gym
@@ -12,7 +10,6 @@
 - keras
 
 <h2>LunarLander-v2</h2>
-<hr/>
 <h4>Actions:</h4>
 
 - Do nothing.
